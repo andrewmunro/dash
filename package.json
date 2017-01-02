@@ -10,6 +10,7 @@
   "author": "Andrew Munro",
   "license": "ISC",
   "dependencies": {
-    "pcap": "git+https://github.com/mranney/node_pcap.git"
+    "pcap": "git+https://github.com/mranney/node_pcap.git",
+    "request": "^2.79.0"
   }
 }
